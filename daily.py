@@ -16,7 +16,9 @@ for app in IPAupdates:
     if app['repoURL'] in repoCache:
         repoJSON = repoCache[app['repoURL']]
     else:
-        repoJSON = requests.get(app['repoURL']).json()
+        response = requests.get(app['repoURL']).text
+        print(response[:20])
+        repoJSON = json.loads(response)
         repoCache[app['repoURL']] = repoJSON
 
     for repoApp in repoJSON["apps"]:
