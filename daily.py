@@ -8,11 +8,16 @@ load_dotenv()
 # Check for IPA UpdatesIPAupdates = json.load(open("data/IPAupdates.json"))
 IPAwebhook = os.getenv("IPA_WEBHOOK")
 IPAupdates = json.load(open("data/IPAupdates.json"))
+repoCache = {}
 for app in IPAupdates:
     if app["ignore"] == "Yes":
         continue
-
-    repoJSON = requests.get(app['repoURL']).json()
+    
+    if app['repoURL'] in repoCache:
+        repoJSON = repoCache[app['repoURL']]
+    else:
+        repoJSON = requests.get(app['repoURL']).json()
+        repoCache[app['repoURL']] = repoJSON
 
     for repoApp in repoJSON["apps"]:
         if repoApp["name"] == app["name"] and repoApp["bundleIdentifier"] == app["bundleIdentifier"]:
