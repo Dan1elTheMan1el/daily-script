@@ -13,7 +13,6 @@ for app in IPAupdates:
         continue
 
     repoJSON = requests.get(app['repoURL']).json()
-    print(app["name"])
 
     for repoApp in repoJSON["apps"]:
         if repoApp["name"] == app["name"] and repoApp["bundleIdentifier"] == app["bundleIdentifier"]:
@@ -52,6 +51,5 @@ for app in IPAupdates:
                 }
                 requests.post(IPAwebhook, json=payload)
             
-            break
-    
+            break   
 json.dump(IPAupdates, open("data/IPAupdates.json", "w"), indent=4)
