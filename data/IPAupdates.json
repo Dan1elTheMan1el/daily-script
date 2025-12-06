@@ -1,0 +1,65 @@
+[
+    {
+        "repoURL": "https://pokemmo.com/altstore/",
+        "ignore": "No",
+        "name": "PokeMMO",
+        "bundleIdentifier": "eu.pokemmo.client",
+        "version": "30989"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/dvntm0/AltStore/refs/heads/main/repo.json",
+        "ignore": "No",
+        "name": "YouTube Plus",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "version": "20.42.3"
+    },
+    {
+        "repoURL": "https://repository.apptesters.org/",
+        "ignore": "No",
+        "name": "InShot",
+        "bundleIdentifier": "com.camerasideas.InstaShot",
+        "version": "1.91.1"
+    },
+    {
+        "repoURL": "https://community-apps.sidestore.io/sidecommunity.json",
+        "ignore": "No",
+        "name": "iTorrent",
+        "bundleIdentifier": "com.xitrix.iTorrent2",
+        "version": "2.0.14"
+    },
+    {
+        "repoURL": "https://repository.apptesters.org/",
+        "ignore": "No",
+        "name": "BHTikTokPlus",
+        "bundleIdentifier": "com.zhiliaoapp.musically",
+        "version": "41.1.0"
+    },
+    {
+        "repoURL": "https://repository.apptesters.org/",
+        "ignore": "No",
+        "name": "Mockview",
+        "bundleIdentifier": "com.kavsoft.MockviewApp",
+        "version": "4.1.1"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/apps.json",
+        "ignore": "No",
+        "name": "TransitRoyale",
+        "bundleIdentifier": "com.samvermette.Transit",
+        "version": "5.17.0"
+    },
+    {
+        "repoURL": "https://ipa.cypwn.xyz/cypwn_altstore.json",
+        "ignore": "No",
+        "name": "DLiPA_v1.1",
+        "bundleIdentifier": "com.ahmedbafkir.dlipa",
+        "version": "1.1"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "ignore": "No",
+        "name": "BTLoader (Discord)",
+        "bundleIdentifier": "com.hammerandchisel.discord",
+        "version": "307.2"
+    }
+]
