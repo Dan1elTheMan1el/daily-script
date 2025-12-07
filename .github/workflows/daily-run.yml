@@ -39,7 +39,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add data/
         if ! git diff --staged --quiet; then
-          git commit -m "Update IPA data - $(date +'%Y-%m-%d')"
+          git commit -m "Updated data - $(date +'%Y-%m-%d')"
           git push
         else
           echo "No changes to commit"
