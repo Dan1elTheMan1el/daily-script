@@ -74,7 +74,7 @@
         "ignore": "No",
         "name": "BTLoader (Discord)",
         "bundleIdentifier": "com.hammerandchisel.discord",
-        "version": "307.2"
+        "version": "305.0"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/apps.json",
