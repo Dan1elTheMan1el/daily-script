@@ -39,7 +39,7 @@
         "ignore": "No",
         "name": "InShot",
         "bundleIdentifier": "com.camerasideas.InstaShot",
-        "version": "1.91.1"
+        "version": "1.92.0"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
@@ -74,7 +74,7 @@
         "ignore": "No",
         "name": "BTLoader (Discord)",
         "bundleIdentifier": "com.hammerandchisel.discord",
-        "version": "305.0"
+        "version": "308.0"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/apps.json",
