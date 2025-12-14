@@ -77,10 +77,10 @@
         "version": "308.0"
     },
     {
-        "repoURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/apps.json",
+        "repoURL": "https://repository.apptesters.org/",
         "ignore": "No",
-        "name": "PostboxPocket",
-        "bundleIdentifier": "com.simplycode.PostBox-Pocket",
-        "version": "0.8.1-7"
+        "name": "2PlayerGames",
+        "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
+        "version": "7.12.5"
     }
 ]
