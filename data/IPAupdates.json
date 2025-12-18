@@ -74,7 +74,7 @@
         "ignore": "No",
         "name": "BTLoader (Discord)",
         "bundleIdentifier": "com.hammerandchisel.discord",
-        "version": "308.0"
+        "version": "305.0"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
