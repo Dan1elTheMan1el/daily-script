@@ -49,14 +49,7 @@
         "version": "4.1.1"
     },
     {
-        "repoURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/apps.json",
-        "ignore": "No",
-        "name": "TransitRoyale",
-        "bundleIdentifier": "com.samvermette.Transit",
-        "version": "5.17.0"
-    },
-    {
-        "repoURL": "https://community-apps.sidestore.io/sidecommunity.json",
+        "repoURL": "https://xitrix.github.io/iTorrent/AltStore.json",
         "ignore": "No",
         "name": "iTorrent",
         "bundleIdentifier": "com.xitrix.iTorrent2",
