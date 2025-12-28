@@ -1,12 +1,5 @@
 [
     {
-        "repoURL": "https://pokemmo.com/altstore/",
-        "ignore": "No",
-        "name": "PokeMMO",
-        "bundleIdentifier": "eu.pokemmo.client",
-        "version": "31249"
-    },
-    {
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "ignore": "No",
         "name": "Reddit Filter",
