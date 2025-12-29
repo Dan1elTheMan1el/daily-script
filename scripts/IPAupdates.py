@@ -23,6 +23,8 @@ def IPAupdates(IPAwebhook):
                     latest = repoApp["versions"][0]["version"]
                     download = repoApp["versions"][0]["downloadURL"]
                 
+                app["downloadURL"] = download
+                
                 # Handle update
                 if latest != app["version"]:
                     app["version"] = latest

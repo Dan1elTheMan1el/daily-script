@@ -4,69 +4,79 @@
         "ignore": "No",
         "name": "Reddit Filter",
         "bundleIdentifier": "com.reddit.Reddit",
-        "version": "2025.37.0-1.1.8"
+        "version": "2025.37.0-1.1.8",
+        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "ignore": "No",
         "name": "Pocket Poster",
         "bundleIdentifier": "com.lemin.Pocket-Poster",
-        "version": "3.0"
+        "version": "3.0",
+        "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
         "ignore": "No",
         "name": "BHTikTokPlus",
         "bundleIdentifier": "com.zhiliaoapp.musically",
-        "version": "41.1.0"
+        "version": "41.1.0",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/dvntm0/AltStore/refs/heads/main/repo.json",
         "ignore": "No",
         "name": "YouTube Plus",
         "bundleIdentifier": "com.google.ios.youtube",
-        "version": "20.42.3"
+        "version": "20.42.3",
+        "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
         "ignore": "No",
         "name": "InShot",
         "bundleIdentifier": "com.camerasideas.InstaShot",
-        "version": "1.92.2"
+        "version": "1.92.2",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-12-2025/InShot_1.92.2_Premium_%40thisismanpreets_apptesters.org.ipa"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
         "ignore": "No",
         "name": "Mockview",
         "bundleIdentifier": "com.kavsoft.MockviewApp",
-        "version": "4.1.1"
+        "version": "4.1.1",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa"
     },
     {
         "repoURL": "https://xitrix.github.io/iTorrent/AltStore.json",
         "ignore": "No",
         "name": "iTorrent",
         "bundleIdentifier": "com.xitrix.iTorrent2",
-        "version": "2.1.1"
+        "version": "2.1.1",
+        "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "ignore": "No",
         "name": "Ksign",
         "bundleIdentifier": "nya.asami.ksign",
-        "version": "1.5.1"
+        "version": "1.5.1",
+        "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.5.1/Ksign.ipa"
     },
     {
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "ignore": "No",
         "name": "BTLoader (Discord)",
         "bundleIdentifier": "com.hammerandchisel.discord",
-        "version": "305.0"
+        "version": "305.0",
+        "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v305.0/bound.ipa"
     },
     {
         "repoURL": "https://repository.apptesters.org/",
         "ignore": "No",
         "name": "2PlayerGames",
         "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
-        "version": "7.12.5"
+        "version": "7.12.5",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa"
     }
 ]
