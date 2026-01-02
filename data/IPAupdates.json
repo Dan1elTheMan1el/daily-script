@@ -1,74 +1,74 @@
 [
-  {
-    "name" : "Reddit Filter",
-    "bundleIdentifier" : "com.reddit.Reddit",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "downloadURL" : "https:\/\/github.com\/level3tjg\/RedditFilter\/releases\/download\/v2025.37.0-1.1.8\/RedditFilter_2025.37.0-1.1.8.ipa",
-    "version" : "2025.37.0-1.1.8",
-    "ignore" : "No"
-  },
-  {
-    "name" : "Pocket Poster",
-    "bundleIdentifier" : "com.lemin.Pocket-Poster",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "downloadURL" : "https:\/\/github.com\/leminlimez\/Pocket-Poster\/releases\/download\/v3.0\/Pocket_Poster.ipa",
-    "version" : "3.0",
-    "ignore" : "No"
-  },
-  {
-    "name" : "BHTikTokPlus",
-    "bundleIdentifier" : "com.zhiliaoapp.musically",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/11-08-2025\/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-    "version" : "41.1.0",
-    "ignore" : "No"
-  },
-  {
-    "name" : "YouTube Plus",
-    "bundleIdentifier" : "com.google.ios.youtube",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/dvntm0\/AltStore\/refs\/heads\/main\/repo.json",
-    "downloadURL" : "https:\/\/github.com\/dvntm0\/AltStore\/releases\/download\/0.0.1\/ytp_5.2b4+20.42.3.ipa",
-    "version" : "20.42.3",
-    "ignore" : "No"
-  },
-  {
-    "name" : "InShot",
-    "bundleIdentifier" : "com.camerasideas.InstaShot",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/26-12-2025\/InShot_1.92.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-    "version" : "1.92.2",
-    "ignore" : "No"
-  },
-  {
-    "name" : "Mockview",
-    "bundleIdentifier" : "com.kavsoft.MockviewApp",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/04-12-2025\/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-    "version" : "4.1.1",
-    "ignore" : "No"
-  },
-  {
-    "name" : "iTorrent",
-    "bundleIdentifier" : "com.xitrix.iTorrent2",
-    "repoURL" : "https:\/\/xitrix.github.io\/iTorrent\/AltStore.json",
-    "downloadURL" : "https:\/\/github.com\/XITRIX\/iTorrent\/releases\/download\/v2.1.1-1\/iTorrent.ipa",
-    "version" : "2.1.1",
-    "ignore" : "No"
-  },
-  {
-    "name" : "2PlayerGames",
-    "bundleIdentifier" : "com.JindoBlu.TwoPlayerGamesChallengeIOS",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/13-12-2025\/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-    "version" : "7.12.5",
-    "ignore" : "No"
-  },
-  {
-    "name" : "PancakeStore",
-    "bundleIdentifier" : "com.jbdotparty.PancakeStore",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "downloadURL" : "https:\/\/github.com\/jailbreakdotparty\/PancakeStore\/releases\/download\/1.0.1\/PancakeStore_v1.0.1.ipa",
-    "version" : "1.0.1",
-    "ignore" : "No"
-  }
+    {
+        "name": "Reddit Filter",
+        "bundleIdentifier": "com.reddit.Reddit",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
+        "version": "2025.37.0-1.1.8",
+        "ignore": "No"
+    },
+    {
+        "name": "Pocket Poster",
+        "bundleIdentifier": "com.lemin.Pocket-Poster",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+        "version": "3.0",
+        "ignore": "No"
+    },
+    {
+        "name": "BHTikTokPlus",
+        "bundleIdentifier": "com.zhiliaoapp.musically",
+        "repoURL": "https://repository.apptesters.org/",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+        "version": "41.1.0",
+        "ignore": "No"
+    },
+    {
+        "name": "YouTube Plus",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "repoURL": "https://raw.githubusercontent.com/dvntm0/AltStore/refs/heads/main/repo.json",
+        "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+        "version": "20.42.3",
+        "ignore": "No"
+    },
+    {
+        "name": "InShot",
+        "bundleIdentifier": "com.camerasideas.InstaShot",
+        "repoURL": "https://repository.apptesters.org/",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-12-2025/InShot_1.92.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+        "version": "1.92.2",
+        "ignore": "No"
+    },
+    {
+        "name": "Mockview",
+        "bundleIdentifier": "com.kavsoft.MockviewApp",
+        "repoURL": "https://repository.apptesters.org/",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "version": "4.1.1",
+        "ignore": "No"
+    },
+    {
+        "name": "iTorrent",
+        "bundleIdentifier": "com.xitrix.iTorrent2",
+        "repoURL": "https://xitrix.github.io/iTorrent/AltStore.json",
+        "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+        "version": "2.1.1",
+        "ignore": "No"
+    },
+    {
+        "name": "2PlayerGames",
+        "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
+        "repoURL": "https://repository.apptesters.org/",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "version": "7.12.5",
+        "ignore": "No"
+    },
+    {
+        "name": "PancakeStore",
+        "bundleIdentifier": "com.jbdotparty.PancakeStore",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.0.1/PancakeStore_v1.0.1.ipa",
+        "version": "1.0.1",
+        "ignore": "No"
+    }
 ]
