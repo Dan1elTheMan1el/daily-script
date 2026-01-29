@@ -88,7 +88,7 @@
         "version": "6.4.1"
     },
     {
-        "downloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v1.0.1/ByeTunes-Debug.ipa",
+        "downloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v1.0.1/ByeTunes.ipa",
         "bundleIdentifier": "com.EduAlexxis.MusicManager",
         "ignore": "No",
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
