@@ -80,11 +80,11 @@
         "bundleIdentifier": "com.rickharrison.narwhal"
     },
     {
-        "version": "6.4.1",
+        "version": "6.4.2",
         "repoURL": "https://repository.apptesters.org/",
         "name": "1Blocker",
         "ignore": "No",
-        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/1Blocker_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/1Blocker_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
         "bundleIdentifier": "com.khanov.BlockerX"
     },
     {
