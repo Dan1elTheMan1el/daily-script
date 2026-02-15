@@ -68,7 +68,7 @@
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "name": "PancakeStore",
         "ignore": "No",
-        "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.0.1/PancakeStore_v1.0.1.ipa",
+        "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.3.3/Ferrite-iOS_v0.3.3.ipa",
         "bundleIdentifier": "com.jbdotparty.PancakeStore"
     },
     {
