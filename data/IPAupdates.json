@@ -1,121 +1,122 @@
 [
-  {
-    "ignore" : "No",
-    "version" : "2025.37.0-1.1.8",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "downloadURL" : "https:\/\/github.com\/level3tjg\/RedditFilter\/releases\/download\/v2025.37.0-1.1.8\/RedditFilter_2025.37.0-1.1.8.ipa",
-    "bundleIdentifier" : "com.reddit.Reddit",
-    "name" : "Reddit Filter"
-  },
-  {
-    "ignore" : "No",
-    "version" : "3.0",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "downloadURL" : "https:\/\/github.com\/leminlimez\/Pocket-Poster\/releases\/download\/v3.0\/Pocket_Poster.ipa",
-    "bundleIdentifier" : "com.lemin.Pocket-Poster",
-    "name" : "Pocket Poster"
-  },
-  {
-    "ignore" : "No",
-    "version" : "41.1.0",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/11-08-2025\/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-    "bundleIdentifier" : "com.zhiliaoapp.musically",
-    "name" : "BHTikTokPlus"
-  },
-  {
-    "ignore" : "No",
-    "version" : "20.42.3",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/dvntm0\/AltStore\/refs\/heads\/main\/repo.json",
-    "bundleIdentifier" : "com.google.ios.youtube",
-    "downloadURL" : "https:\/\/github.com\/dvntm0\/AltStore\/releases\/download\/0.0.1\/ytp_5.2b4+20.42.3.ipa",
-    "name" : "YouTube Plus"
-  },
-  {
-    "ignore" : "No",
-    "version" : "1.94.0",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "bundleIdentifier" : "com.camerasideas.InstaShot",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/09-02-2026\/InShot_1.94.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-    "name" : "InShot"
-  },
-  {
-    "ignore" : "No",
-    "version" : "4.1.1",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "bundleIdentifier" : "com.kavsoft.MockviewApp",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/04-12-2025\/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-    "name" : "Mockview"
-  },
-  {
-    "ignore" : "No",
-    "version" : "2.1.1",
-    "repoURL" : "https:\/\/xitrix.github.io\/iTorrent\/AltStore.json",
-    "bundleIdentifier" : "com.xitrix.iTorrent2",
-    "downloadURL" : "https:\/\/github.com\/XITRIX\/iTorrent\/releases\/download\/v2.1.1-1\/iTorrent.ipa",
-    "name" : "iTorrent"
-  },
-  {
-    "ignore" : "No",
-    "version" : "7.12.5",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "bundleIdentifier" : "com.JindoBlu.TwoPlayerGamesChallengeIOS",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/13-12-2025\/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-    "name" : "2PlayerGames"
-  },
-  {
-    "ignore" : "No",
-    "version" : "1.0.1",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "bundleIdentifier" : "com.jbdotparty.PancakeStore",
-    "downloadURL" : "https:\/\/github.com\/Ferrite-iOS\/Ferrite\/releases\/download\/v0.3.3\/Ferrite-iOS_v0.3.3.ipa",
-    "name" : "PancakeStore"
-  },
-  {
-    "ignore" : "No",
-    "version" : "2025.10",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "bundleIdentifier" : "com.rickharrison.narwhal",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/06-01-2026\/Narwhal_2025.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-    "name" : "Narwhal"
-  },
-  {
-    "ignore" : "No",
-    "version" : "6.4.2",
-    "repoURL" : "https:\/\/repository.apptesters.org\/",
-    "bundleIdentifier" : "com.khanov.BlockerX",
-    "downloadURL" : "https:\/\/github.com\/apptesters-org\/AppTesters_Repo\/releases\/download\/04-02-2026\/1Blocker_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-    "name" : "1Blocker"
-  },
-  {
-    "ignore" : "No",
-    "version" : "1.0.1",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "bundleIdentifier" : "com.EduAlexxis.MusicManager",
-    "downloadURL" : "https:\/\/github.com\/EduAlexxis\/ByeTunes\/releases\/download\/v1.0.1\/ByeTunes-Debug.ipa",
-    "name" : "ByeTunes"
-  },
-  {
-    "ignore" : "No",
-    "version" : "2.5.0",
-    "repoURL" : "https:\/\/delvek.net\/repo.json",
-    "bundleIdentifier" : "com.musictag.www.pro",
-    "downloadURL" : "https:\/\/delvek.net\/iPA\/MP3TagPro_v2.5.0%2BPREMiUM.ipa",
-    "name" : "MP3 Tag Pro"
-  },
-  {
-    "ignore" : "No",
-    "version" : "1.4.2",
-    "repoURL" : "https:\/\/ios-repo.geode-sdk.org\/altsource\/main.json",
-    "bundleIdentifier" : "com.geode.launcher",
-    "downloadURL" : "https:\/\/github.com\/geode-sdk\/ios-launcher\/releases\/download\/v1.4.2\/com.geode.launcher_1.4.2.ipa",
-    "name" : "Geode Launcher"
-  },
-  {
-    "ignore" : "No",
-    "version" : "1.0.0",
-    "repoURL" : "https:\/\/raw.githubusercontent.com\/Dan1elTheMan1el\/IOS-Repo\/refs\/heads\/main\/altstore-repo.json",
-    "bundleIdentifier" : "GetzemaniCruz.sumee.lite",
-    "name" : "SUMEE! Lite"
-  }
+    {
+        "ignore": "No",
+        "version": "2025.37.0-1.1.8",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.37.0-1.1.8/RedditFilter_2025.37.0-1.1.8.ipa",
+        "bundleIdentifier": "com.reddit.Reddit",
+        "name": "Reddit Filter"
+    },
+    {
+        "ignore": "No",
+        "version": "3.0",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+        "bundleIdentifier": "com.lemin.Pocket-Poster",
+        "name": "Pocket Poster"
+    },
+    {
+        "ignore": "No",
+        "version": "41.1.0",
+        "repoURL": "https://repository.apptesters.org/",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2025/BHTikTokPlus_41.1.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+        "bundleIdentifier": "com.zhiliaoapp.musically",
+        "name": "BHTikTokPlus"
+    },
+    {
+        "ignore": "No",
+        "version": "20.42.3",
+        "repoURL": "https://raw.githubusercontent.com/dvntm0/AltStore/refs/heads/main/repo.json",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+        "name": "YouTube Plus"
+    },
+    {
+        "ignore": "No",
+        "version": "1.94.0",
+        "repoURL": "https://repository.apptesters.org/",
+        "bundleIdentifier": "com.camerasideas.InstaShot",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/InShot_1.94.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+        "name": "InShot"
+    },
+    {
+        "ignore": "No",
+        "version": "4.1.1",
+        "repoURL": "https://repository.apptesters.org/",
+        "bundleIdentifier": "com.kavsoft.MockviewApp",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "name": "Mockview"
+    },
+    {
+        "ignore": "No",
+        "version": "2.1.1",
+        "repoURL": "https://xitrix.github.io/iTorrent/AltStore.json",
+        "bundleIdentifier": "com.xitrix.iTorrent2",
+        "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+        "name": "iTorrent"
+    },
+    {
+        "ignore": "No",
+        "version": "7.12.5",
+        "repoURL": "https://repository.apptesters.org/",
+        "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "name": "2PlayerGames"
+    },
+    {
+        "ignore": "No",
+        "version": "1.0.1",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "bundleIdentifier": "com.jbdotparty.PancakeStore",
+        "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.3.3/Ferrite-iOS_v0.3.3.ipa",
+        "name": "PancakeStore"
+    },
+    {
+        "ignore": "No",
+        "version": "2025.10",
+        "repoURL": "https://repository.apptesters.org/",
+        "bundleIdentifier": "com.rickharrison.narwhal",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/Narwhal_2025.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+        "name": "Narwhal"
+    },
+    {
+        "ignore": "No",
+        "version": "6.4.2",
+        "repoURL": "https://repository.apptesters.org/",
+        "bundleIdentifier": "com.khanov.BlockerX",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/1Blocker_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "name": "1Blocker"
+    },
+    {
+        "ignore": "No",
+        "version": "1.0.1",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "bundleIdentifier": "com.EduAlexxis.MusicManager",
+        "downloadURL": "https://github.com/EduAlexxis/ByeTunes/releases/download/v1.0.1/ByeTunes-Debug.ipa",
+        "name": "ByeTunes"
+    },
+    {
+        "ignore": "No",
+        "version": "2.5.0",
+        "repoURL": "https://delvek.net/repo.json",
+        "bundleIdentifier": "com.musictag.www.pro",
+        "downloadURL": "https://delvek.net/iPA/MP3TagPro_v2.5.0%2BPREMiUM.ipa",
+        "name": "MP3 Tag Pro"
+    },
+    {
+        "ignore": "No",
+        "version": "1.4.2",
+        "repoURL": "https://ios-repo.geode-sdk.org/altsource/main.json",
+        "bundleIdentifier": "com.geode.launcher",
+        "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.4.2/com.geode.launcher_1.4.2.ipa",
+        "name": "Geode Launcher"
+    },
+    {
+        "ignore": "No",
+        "version": "1.0.0",
+        "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
+        "bundleIdentifier": "GetzemaniCruz.sumee.lite",
+        "name": "SUMEE! Lite",
+        "downloadURL": "https://github.com/getzemani63/sumee-lite/releases/download/v1.0.0/SUMEE.ipa"
+    }
 ]
