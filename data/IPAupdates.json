@@ -113,10 +113,10 @@
     },
     {
         "ignore": "No",
-        "version": "1.0.0",
+        "version": "1.0.5",
         "repoURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/altstore-repo.json",
         "bundleIdentifier": "GetzemaniCruz.sumee.lite",
         "name": "SUMEE! Lite",
-        "downloadURL": "https://github.com/getzemani63/sumee-lite/releases/download/v1.0.0/SUMEE.ipa"
+        "downloadURL": "https://github.com/getzemani63/sumee-lite/releases/download/v1.0.5/SUMEE.ipa"
     }
 ]
