@@ -80,9 +80,9 @@
         "ignore": "No"
     },
     {
-        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2026/1Blocker_6.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-02-2026/1Blocker_6.4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
         "bundleIdentifier": "com.khanov.BlockerX",
-        "version": "6.4.2",
+        "version": "6.4.3",
         "name": "1Blocker",
         "repoURL": "https://repository.apptesters.org/",
         "ignore": "No"
