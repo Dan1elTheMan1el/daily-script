@@ -104,9 +104,9 @@
         "ignore": "No"
     },
     {
-        "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.4.2/com.geode.launcher_1.4.2.ipa",
+        "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.1/com.geode.launcher_1.5.1.ipa",
         "bundleIdentifier": "com.geode.launcher",
-        "version": "1.4.2",
+        "version": "1.5.1",
         "name": "Geode Launcher",
         "repoURL": "https://ios-repo.geode-sdk.org/altsource/main.json",
         "ignore": "No"
