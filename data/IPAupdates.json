@@ -33,10 +33,10 @@
     },
     {
         "repoURL": "https://repository.apptesters.org/",
-        "version": "1.94.0",
+        "version": "1.94.2",
         "ignore": "No",
         "name": "InShot",
-        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/InShot_1.94.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+        "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-03-2026/InShot_1.94.2_Premium_%40thisismanpreets_apptesters.org.ipa",
         "bundleIdentifier": "com.camerasideas.InstaShot"
     },
     {
